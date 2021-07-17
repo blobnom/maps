@@ -58,8 +58,3 @@ Picotto! Papitto!! GARUPA*PICO !!! [Pi! Pi! Garupa pikopi!] [url=]Replay[/url]
 
 PISSCORD [KING ~ AR10] [url=]Replay[/url]
 [img][/img]
-
-
-This list only includes map i've passed
-NekoShabeta Mutual when o.o
-[/box]
