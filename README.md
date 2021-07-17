@@ -44,17 +44,17 @@
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/866031250807717908/screenshot.jpg)
 
 
-## Sendan Life [Abominate the Sekai] [url=]Replay[/url]
-![Screenshot]()
+## Sendan Life [Abominate the Sekai] [url=https://cdn.discordapp.com/attachments/864931946474897429/866034316826771467/replay.osr]Replay[/url]
+![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/866034324322910239/screenshot.jpg)
 
 
-## American Girls [bg is not American Girls ~ AR10] [url=]Replay[/url]
-![Screenshot]()
+## American Girls [bg is not American Girls ~ AR10] [url=https://cdn.discordapp.com/attachments/864931946474897429/866034510071726100/replay.osr]Replay[/url]
+![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/866034513721294858/screenshot.jpg)
 
 
-## Picotto! Papitto!! GARUPA*PICO !!! [Pi! Pi! Garupa pikopi!] [url=]Replay[/url]
-![Screenshot]()
+## Picotto! Papitto!! GARUPA\*PICO !!! [Pi! Pi! Garupa pikopi!] [url=https://cdn.discordapp.com/attachments/864931946474897429/866035000814469160/replay.osr]Replay[/url]
+![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/866035006030872596/screenshot.jpg)
 
 
-## PISSCORD [KING ~ AR10] [url=]Replay[/url]
-![Screenshot]()
+## PISSCORD [KING ~ AR10] [url=https://cdn.discordapp.com/attachments/864931946474897429/866035176587657236/replay.osr]Replay[/url]
+![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/866035181400096808/screenshot.jpg)
