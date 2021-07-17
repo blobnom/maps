@@ -31,6 +31,21 @@ Bookmaker [FUTURE 9.5] [url=https://cdn.discordapp.com/attachments/8649319464748
 Bookmaker [FUTURE 10] [url=https://cdn.discordapp.com/attachments/864931946474897429/866029294517616670/replay_HR.osr]Replay +HR[/url]
 [img]https://cdn.discordapp.com/attachments/864931946474897429/866029300779450408/screenshot_HR.jpg[/img]
 
+Arupejio [Arpeggio] [url=]Replay[/url]
+[img][/img]
+
+Sendan Life [Abominate the Sekai] [url=]Replay[/url]
+[img][/img]
+
+American Girls [bg is not American Girls ~ AR10] [url=]Replay[/url]
+[img][/img]
+
+Picotto! Papitto!! GARUPA*PICO !!! [Pi! Pi! Garupa pikopi!] [url=]Replay[/url]
+[img][/img]
+
+PISSCORD [KING ~ AR10] [url=]Replay[/url]
+[img][/img]
+
 This list only includes map i've passed
 NekoShabeta Mutual when o.o
 [/box]
