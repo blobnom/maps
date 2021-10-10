@@ -1,4 +1,5 @@
 # NekoShabeta maps i've passed so far (14/99):
+All screenshots are available on [this discord server](https://discord.gg/akAhybw5ay) too.
 
 ## Samama Festival [Neko Summer!] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/864932225883963392/replay.osr) 
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/864932239037300756/screenshot.jpg)
@@ -44,20 +45,20 @@
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/866031250807717908/screenshot.jpg)
 
 
-## Sendan Life [Abominate the Sekai] [url=https://cdn.discordapp.com/attachments/864931946474897429/866034316826771467/replay.osr]Replay[/url]
+## Sendan Life [Abominate the Sekai] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/866034316826771467/replay.osr)
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/866034324322910239/screenshot.jpg)
 
 
-## American Girls [bg is not American Girls ~ AR10] [url=https://cdn.discordapp.com/attachments/864931946474897429/866034510071726100/replay.osr]Replay[/url]
+## American Girls [bg is not American Girls ~ AR10] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/866034510071726100/replay.osr)
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/866034513721294858/screenshot.jpg)
 
 
-## Picotto! Papitto!! GARUPA\*PICO !!! [Pi! Pi! Garupa pikopi!] [url=https://cdn.discordapp.com/attachments/864931946474897429/866035000814469160/replay.osr]Replay[/url]
+## Picotto! Papitto!! GARUPA\*PICO !!! [Pi! Pi! Garupa pikopi!] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/866035000814469160/replay.osr)
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/866035006030872596/screenshot.jpg)
 
 
-## PISSCORD [KING ~ AR10] [url=https://cdn.discordapp.com/attachments/864931946474897429/866035176587657236/replay.osr]Replay[/url]
+## PISSCORD [KING ~ AR10] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/866035176587657236/replay.osr)
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/866035181400096808/screenshot.jpg)
 
-## Montage [Diff Name Meow] [url=https://cdn.discordapp.com/attachments/864931946474897429/867043532656345118/replay.osr]Replay[/url]
+## Montage [Diff Name Meow] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/867043532656345118/replay.osr)
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/867043537170202644/screenshot.jpg)
