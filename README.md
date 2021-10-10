@@ -13,7 +13,7 @@ All screenshots are available on [this discord server](https://discord.gg/akAhyb
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/864941745124540447/screenshot.jpg)
 
 
-## I Really Like You [Do you want me?] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/864946022136021002/replay.osr) [Replay +HR](https://cdn.discordapp.com/attachments/864931946474897429/866029785448841276/replay_HR.osr) [Replay +HDHR](https://cdn.discordapp.com/attachments/864931946474897429/866029880781307914/replay_HDHR.osr)
+## I Really Like You [Do you want me?] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/864946022136021002/replay.osr) • [Replay +HR](https://cdn.discordapp.com/attachments/864931946474897429/866029785448841276/replay_HR.osr) • [Replay +HDHR](https://cdn.discordapp.com/attachments/864931946474897429/866029880781307914/replay_HDHR.osr)
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/864946029514457098/screenshot.jpg)
 ![Screenshot +HR](https://cdn.discordapp.com/attachments/864931946474897429/866029787603927060/screenshot_HR.jpg)
 ![Screenshot +HDHR](https://cdn.discordapp.com/attachments/864931946474897429/866029886145036308/screenshot_HDHR.jpg)
@@ -23,7 +23,7 @@ All screenshots are available on [this discord server](https://discord.gg/akAhyb
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/864947911804715018/screenshot.jpg)
 
 
-## Shut Up and Dance [Shut Up and Osu!] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/865277221598265394/replay.osr) [Replay +HR](https://cdn.discordapp.com/attachments/864931946474897429/866030190357118996/replay_HR.osr) [Clip](https://www.youtube.com/watch?v=yfn7eeWHD6g)
+## Shut Up and Dance [Shut Up and Osu!] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/865277221598265394/replay.osr) • [Replay +HR](https://cdn.discordapp.com/attachments/864931946474897429/866030190357118996/replay_HR.osr)
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/865277223702888508/screenshot.jpg)
 ![Screenshot +HR](https://cdn.discordapp.com/attachments/864931946474897429/866030192378904637/screenshot_HR.jpg)
 
@@ -32,7 +32,7 @@ All screenshots are available on [this discord server](https://discord.gg/akAhyb
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/866026346534142002/screenshot.jpg)
 
 
-## Bookmaker [FUTURE 9.5] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/866028332771311636/replay.osr) [Replay +HR](https://cdn.discordapp.com/attachments/864931946474897429/866028361192046642/replay_HR.osr)
+## Bookmaker [FUTURE 9.5] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/866028332771311636/replay.osr) • [Replay +HR](https://cdn.discordapp.com/attachments/864931946474897429/866028361192046642/replay_HR.osr)
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/866028335804317706/screenshot.jpg)
 ![Screenshot +HR](https://cdn.discordapp.com/attachments/864931946474897429/866028368986505236/screenshot_HR.jpg)
 
