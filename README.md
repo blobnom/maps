@@ -71,3 +71,7 @@ All screenshots are available on [this discord server](https://discord.gg/akAhyb
 
 ## Fake [Pretend] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/896984731206418563/MeowboiMyMommy_-_Feryquitous_feat._Aitsuki_Nakuru_-_Fake_Pretend_2021-10-11_Osu.osr)
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/896984790669090907/screenshot1099.jpg)
+
+
+## Shinde Shimatta no Darou ka [Lovely] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/896988404112318504/MeowboiMyMommy_-_Qu_Qualia_-_Shinde_Shimatta_no_Darou_ka_Lovely_2021-10-11_Osu.osr)
+![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/896988430779695138/screenshot1100.jpg)
