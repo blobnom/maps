@@ -67,3 +67,7 @@ All screenshots are available on [this discord server](https://discord.gg/akAhyb
 
 ## MY COLOR [Melody] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/896982195334418482/MeowboiMyMommy_-_Perfume_-_MY_COLOR_Melody_2021-10-10_Osu-1.osr)
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/896982225285943296/screenshot1098.jpg)
+
+
+## Fake [Pretend] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/896984731206418563/MeowboiMyMommy_-_Feryquitous_feat._Aitsuki_Nakuru_-_Fake_Pretend_2021-10-11_Osu.osr)
+![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/896984790669090907/screenshot1099.jpg)
