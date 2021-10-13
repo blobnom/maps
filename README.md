@@ -1,5 +1,5 @@
 # NekoShabeta maps i've passed so far:
-All screenshots are available on [this discord server](https://discord.gg/akAhybw5ay) too.
+All screenshots + replays are available on [this discord server](https://discord.gg/akAhybw5ay) too.
 
 ## Samama Festival [Neko Summer!] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/864932225883963392/replay.osr) 
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/864932239037300756/screenshot.jpg)
