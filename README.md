@@ -75,3 +75,7 @@ All screenshots are available on [this discord server](https://discord.gg/akAhyb
 
 ## Shinde Shimatta no Darou ka [Lovely] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/896988404112318504/MeowboiMyMommy_-_Qu_Qualia_-_Shinde_Shimatta_no_Darou_ka_Lovely_2021-10-11_Osu.osr)
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/896988430779695138/screenshot1100.jpg)
+
+
+## Law Do You Do [How do you do?] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/897742098823012392/MeowboiMyMommy_-_DJKurara_-_Law_Do_You_Do_Law_Do_You_Law_How_do_you_do_2021-10-13_Osu.osr)
+![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/897742169807413278/screenshot1101.jpg)
