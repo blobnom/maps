@@ -1,5 +1,5 @@
 # NekoShabeta maps i've passed so far:
-All screenshots + replays are available on [this discord server](https://discord.gg/akAhybw5ay) too.
+All replays are available on [this discord server](https://discord.gg/F4Dw7qEgRY) too.
 
 ## Samama Festival [Neko Summer!] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/864932225883963392/replay.osr) 
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/864932239037300756/screenshot.jpg)
@@ -79,3 +79,6 @@ All screenshots + replays are available on [this discord server](https://discord
 
 ## Law Do You Do [How do you do?] [Replay](https://cdn.discordapp.com/attachments/864931946474897429/897742098823012392/MeowboiMyMommy_-_DJKurara_-_Law_Do_You_Do_Law_Do_You_Law_How_do_you_do_2021-10-13_Osu.osr)
 ![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/897742169807413278/screenshot1101.jpg)
+
+## Drenchcore Of Justice [BLADE Of JUSTICE] [Replay](https://cdn.discordapp.com/attachments/906544273007185970/906547278423162900/replay.osr1)
+![Screenshot](https://cdn.discordapp.com/attachments/864931946474897429/906547832662655006/screenshot1296.jpg)
