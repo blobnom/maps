@@ -13,6 +13,10 @@ All replays are available on [this discord server](https://discord.gg/F4Dw7qEgRY
 <img src='maps/Ao to Natsu [sUmMeR!]/screenshot.jpg'></img>
 
 
+## Uchiage Hanabi, doko kara raru nen w [Firework NekoChiaki Moment] <a href='maps/Uchiage Hanabi, doko kara raru nen w [Firework NekoChiaki Moment]/replay.osr'>Replay</a>
+<img src='maps/Uchiage Hanabi, doko kara raru nen w [Firework NekoChiaki Moment]/screenshot.jpg'></img>
+
+
 ## Shinde Shimatta no Darou ka [Lovely] <a href='maps/Shinde Shimatta no Darou ka [Lovely]/replay.osr'>Replay</a>
 <img src='maps/Shinde Shimatta no Darou ka [Lovely]/screenshot.jpg'></img>
 
