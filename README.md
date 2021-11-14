@@ -17,6 +17,10 @@ All replays are available on [this discord server](https://discord.gg/F4Dw7qEgRY
 <img src='maps/Uchiage Hanabi, doko kara raru nen w [Firework NekoChiaki Moment]/screenshot.jpg'></img>
 
 
+## ShuwaShuwa Parfait [Lovely] <a href='maps/ShuwaShuwa Parfait [Lovely]/replay.osr'>Replay</a>
+<img src='maps/ShuwaShuwa Parfait [Lovely]/screenshot.jpg'></img>
+
+
 ## Shinde Shimatta no Darou ka [Lovely] <a href='maps/Shinde Shimatta no Darou ka [Lovely]/replay.osr'>Replay</a>
 <img src='maps/Shinde Shimatta no Darou ka [Lovely]/screenshot.jpg'></img>
 
@@ -73,6 +77,10 @@ All replays are available on [this discord server](https://discord.gg/F4Dw7qEgRY
 
 ## Arupejio [Arpeggio] <a href='maps/Arupejio [Arpeggio]/replay.osr'>Replay</a>
 <img src='maps/Arupejio [Arpeggio]/screenshot.jpg'></img>
+
+
+## NINJA IS DEAD [NEKO IS DEAD] <a href='maps/NINJA IS DEAD [NEKO IS DEAD]/replay.osr'>Replay</a>
+<img src='maps/NINJA IS DEAD [NEKO IS DEAD]/screenshot.jpg'></img>
 
 
 ## STRONG 280 [280] <a href='maps/STRONG 280 [280]/replay.osr'>Replay</a>
