@@ -1,5 +1,4 @@
-# NekoShabeta maps i've passed so far:
-All replays are available on [this discord server](https://discord.gg/F4Dw7qEgRY) too.
+# This repository was made to keep track of which maps created by NekoShabeta i've passed so far as i'm trying to pass all of them :)
 
 ## Call me it. [] <a href='maps/Call me it. []/replay.osr'>Replay</a>
 <img src='maps/Call me it. []/screenshot.jpg'></img>
