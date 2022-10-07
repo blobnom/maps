@@ -6,10 +6,6 @@ base = """# This repository was made to keep track of which maps created by Neko
 ## I thought I'd revive this since it was a lot of fun.
 ## Current Progress: {} / {} ({:.2f}%)"""
 
-# for progress
-count = 0
-maxcount = 0
-
 # for retrieving of user's map count
 APIKEY = os.environ["APIKEY"]
 USERID = 12017880
@@ -20,6 +16,7 @@ def get_map_count():
     return len(r.json())
 
 def generate():
+    count = 0
     maps = []
     for folder in Path("./maps/").iterdir():
         if folder.is_file():
@@ -39,16 +36,14 @@ def generate():
                 replay_str.append(f"<a href='maps/{folder_name}/{file_name}'>Replay{mods}</a>")
             elif file_name.endswith(".jpg"):
                 screenshot_str.append(f"<img src='maps/{folder_name}/{file_name}'></img>")
-            count += 1
-        
 
         replay_str = ' | '.join(replay_str)
         screenshot_str = '\n'.join(screenshot_str)
 
         maps.append(f"## {folder_name} {replay_str}\n{screenshot_str}")
-    return '\n\n\n'.join(maps)
+    return ('\n\n\n'.join(maps), count)
 
-updated_readme = generate()
+(updated_readme, count) = generate()
 maxcount = get_map_count()
 with open('./README.md', 'w+') as f:
     f.write(base.format(count, maxcount, ((count / maxcount) * 100)) + "\n\n" + updated_readme)
