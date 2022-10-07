@@ -1,6 +1,10 @@
 # This repository was made to keep track of which maps created by NekoShabeta I've passed so far as I'm trying to pass all of them :)
-# I thought I'd revive this since it was a lot of fun.
-# Current Progress: 26 / 124 (20.97%)
+
+
+I thought I'd revive this since it was a lot of fun.
+
+
+Current Progress: 26 / 124 (20.97%)
 
 ## Shut Up and Dance [Shut Up and Osu!] <a href='maps/Shut Up and Dance [Shut Up and Osu!]/replay +HR.osr'>Replay +HR</a> | <a href='maps/Shut Up and Dance [Shut Up and Osu!]/replay.osr'>Replay</a>
 <img src='maps/Shut Up and Dance [Shut Up and Osu!]/screenshot.jpg'></img>
