@@ -1,7 +1,9 @@
 from pathlib import Path
 
-base = """# NekoShabeta maps i've passed so far:
-All replays are available on [this discord server](https://discord.gg/F4Dw7qEgRY) too."""
+base = """# This repository was made to keep track of which maps created by NekoShabeta I've passed so far as I'm trying to pass all of them :)
+## I thought I'd revive this since it was a lot of fun.
+## Current Progress: {} (wip)"""
+count = 0
 
 def generate():
     maps = []
@@ -23,6 +25,7 @@ def generate():
                 replay_str.append(f"<a href='maps/{folder_name}/{file_name}'>Replay{mods}</a>")
             elif file_name.endswith(".jpg"):
                 screenshot_str.append(f"<img src='maps/{folder_name}/{file_name}'></img>")
+            count += 1
         
 
         replay_str = ' | '.join(replay_str)
@@ -33,4 +36,4 @@ def generate():
 
 updated_readme = generate()
 with open('./README.md', 'w+') as f:
-    f.write(base + "\n\n" + updated_readme)
+    f.write(base.format(count) + "\n\n" + updated_readme)
