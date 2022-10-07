@@ -21,6 +21,8 @@ jobs:
         with:                                 
           python-version: '3.8'            
       - name: 🍳 Update README
+        env:
+          APIKEY: ${{ secrets.APIKEY }}
         run: |
           cd ${GITHUB_WORKSPACE}
           python update_readme.py
