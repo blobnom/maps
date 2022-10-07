@@ -1,4 +1,5 @@
-# This repository was made to keep track of which maps created by NekoShabeta i've passed so far as i'm trying to pass all of them :)
+# This repository was made to keep track of which maps created by NekoShabeta I've passed so far as I'm trying to pass all of them :)
+I thought I'd revive this since it was a lot of fun.
 
 ## Call me it. [] <a href='maps/Call me it. []/replay.osr'>Replay</a>
 <img src='maps/Call me it. []/screenshot.jpg'></img>
