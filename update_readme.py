@@ -1,9 +1,23 @@
 from pathlib import Path
+import requests
+import os
 
 base = """# This repository was made to keep track of which maps created by NekoShabeta I've passed so far as I'm trying to pass all of them :)
 ## I thought I'd revive this since it was a lot of fun.
-## Current Progress: {} (wip)"""
+## Current Progress: {} / {} ({:.2f}%)"""
+
+# for progress
 count = 0
+maxcount = 0
+
+# for retrieving of user's map count
+APIKEY = os.environ["APIKEY"]
+USERID = 12017880
+
+def get_map_count():
+    url = "https://osu.ppy.sh/api/get_beatmaps?k={}&u={}".format(APIKEY, USERID)
+    r = requests.get(url)
+    return len(r.json())
 
 def generate():
     maps = []
@@ -35,5 +49,6 @@ def generate():
     return '\n\n\n'.join(maps)
 
 updated_readme = generate()
+maxcount = get_map_count()
 with open('./README.md', 'w+') as f:
-    f.write(base.format(count) + "\n\n" + updated_readme)
+    f.write(base.format(count, maxcount, ((count / maxcount) * 100)) + "\n\n" + updated_readme)
