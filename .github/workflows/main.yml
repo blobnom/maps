@@ -25,6 +25,7 @@ jobs:
           APIKEY: ${{ secrets.APIKEY }}
         run: |
           cd ${GITHUB_WORKSPACE}
+          python -m pip install requests
           python update_readme.py
       - name: 🚀 Deploy
         run: |
