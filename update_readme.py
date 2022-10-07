@@ -22,6 +22,7 @@ def generate():
         if folder.is_file():
             continue
 
+        count += 1
         folder_name = folder.name
 
         replay_str = []
