@@ -2,9 +2,9 @@ from pathlib import Path
 import requests
 import os
 
-base = """# This repository was made to keep track of which maps created by NekoShabeta I've passed so far as I'm trying to pass all of them :)
-# I thought I'd revive this since it was a lot of fun.
-# Current Progress: {} / {} ({:.2f}%)"""
+base = "# This repository was made to keep track of which maps created by NekoShabeta I've passed so far as I'm trying to pass all of them :)\n\n\n" \
+"I thought I'd revive this since it was a lot of fun.\n\n\n" \
+"Current Progress: {} / {} ({:.2f}%)"
 
 # for retrieving of user's map count
 APIKEY = os.environ["APIKEY"]
