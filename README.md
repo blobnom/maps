@@ -4,7 +4,7 @@
 I thought I'd revive this since it was a lot of fun.
 
 
-Current Progress: 26 / 124 (20.97%)
+Current Progress: 26 / 125 (20.80%)
 
 ## Samama Festival [Neko Summer!] <a href='maps/Samama Festival [Neko Summer!]/replay.osr'>Replay</a>
 <img src='maps/Samama Festival [Neko Summer!]/screenshot.jpg'></img>
