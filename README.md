@@ -4,7 +4,7 @@
 I thought I'd revive this since it was a lot of fun.
 
 
-Current Progress: 26 / 129 (20.16%)
+Current Progress: 26 / 130 (20.00%)
 
 ## Bookmaker [FUTURE 10] <a href='maps/Bookmaker [FUTURE 10]/replay +HR.osr'>Replay +HR</a>
 <img src='maps/Bookmaker [FUTURE 10]/screenshot +HR.jpg'></img>
