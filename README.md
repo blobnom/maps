@@ -4,10 +4,19 @@
 I thought I'd revive this since it was a lot of fun.
 
 
-Current Progress: 26 / 130 (20.00%)
+Current Progress: 31 / 130 (23.85%)
 
-## Bookmaker [FUTURE 10] <a href='maps/Bookmaker [FUTURE 10]/replay +HR.osr'>Replay +HR</a>
+## Bookmaker [FUTURE 10] <a href='maps/Bookmaker [FUTURE 10]/replay.osr'>Replay</a> | <a href='maps/Bookmaker [FUTURE 10]/replay +HR.osr'>Replay +HR</a>
+<img src='maps/Bookmaker [FUTURE 10]/screenshot.jpg'></img>
 <img src='maps/Bookmaker [FUTURE 10]/screenshot +HR.jpg'></img>
+
+
+## Filia no Rashinban [Lovely] <a href='maps/Filia no Rashinban [Lovely]/replay.osr'>Replay</a>
+<img src='maps/Filia no Rashinban [Lovely]/screenshot.jpg'></img>
+
+
+## StaRt [Dreamy Realized] <a href='maps/StaRt [Dreamy Realized]/replay.osr'>Replay</a>
+<img src='maps/StaRt [Dreamy Realized]/screenshot.jpg'></img>
 
 
 ## Fake [Pretend] <a href='maps/Fake [Pretend]/replay.osr'>Replay</a>
@@ -30,6 +39,10 @@ Current Progress: 26 / 130 (20.00%)
 
 ## Samama Festival [Paimon Summer!] <a href='maps/Samama Festival [Paimon Summer!]/replay.osr'>Replay</a>
 <img src='maps/Samama Festival [Paimon Summer!]/screenshot.jpg'></img>
+
+
+## Lovesickore [BEcause] <a href='maps/Lovesickore [BEcause]/replay +HT.osr'>Replay +HT</a>
+<img src='maps/Lovesickore [BEcause]/screenshot +HT.jpg'></img>
 
 
 ## Invisible Frenzy [Frenzy Insanely Forever 593] <a href='maps/Invisible Frenzy [Frenzy Insanely Forever 593]/replay.osr'>Replay</a>
@@ -55,6 +68,10 @@ Current Progress: 26 / 130 (20.00%)
 
 ## Law Do You Do [How do you do] <a href='maps/Law Do You Do [How do you do]/replay.osr'>Replay</a>
 <img src='maps/Law Do You Do [How do you do]/screenshot.jpg'></img>
+
+
+## Inochi ni Kirawarete Iru. [Death] <a href='maps/Inochi ni Kirawarete Iru. [Death]/replay.osr'>Replay</a>
+<img src='maps/Inochi ni Kirawarete Iru. [Death]/screenshot.jpg'></img>
 
 
 ## Sendan Life [Abominate the Sekai] <a href='maps/Sendan Life [Abominate the Sekai]/replay.osr'>Replay</a>
@@ -91,6 +108,10 @@ Current Progress: 26 / 130 (20.00%)
 
 ## Samama Festival [Neko Summer!] <a href='maps/Samama Festival [Neko Summer!]/replay.osr'>Replay</a>
 <img src='maps/Samama Festival [Neko Summer!]/screenshot.jpg'></img>
+
+
+## Critical Hit [Lovely] <a href='maps/Critical Hit [Lovely]/replay.osr'>Replay</a>
+<img src='maps/Critical Hit [Lovely]/screenshot.jpg'></img>
 
 
 ## MY COLOR [Melody] <a href='maps/MY COLOR [Melody]/replay.osr'>Replay</a>
