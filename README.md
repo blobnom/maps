@@ -4,7 +4,7 @@
 I thought I'd revive this since it was a lot of fun.
 
 
-Current Progress: 31 / 131 (23.66%)
+Current Progress: 31 / 134 (23.13%)
 
 ## Invisible Frenzy [Frenzy Insanely Forever 593] <a href='maps/Invisible Frenzy [Frenzy Insanely Forever 593]/replay.osr'>Replay</a>
 <img src='maps/Invisible Frenzy [Frenzy Insanely Forever 593]/screenshot.jpg'></img>
