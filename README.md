@@ -4,7 +4,7 @@
 I thought I'd revive this since it was a lot of fun.
 
 
-Current Progress: 31 / 134 (23.13%)
+Current Progress: 32 / 134 (23.88%)
 
 ## Invisible Frenzy [Frenzy Insanely Forever 593] <a href='maps/Invisible Frenzy [Frenzy Insanely Forever 593]/replay.osr'>Replay</a>
 <img src='maps/Invisible Frenzy [Frenzy Insanely Forever 593]/screenshot.jpg'></img>
@@ -61,6 +61,10 @@ Current Progress: 31 / 134 (23.13%)
 
 ## Uchiage Hanabi, doko kara raru nen w [Firework NekoChiaki Moment] <a href='maps/Uchiage Hanabi, doko kara raru nen w [Firework NekoChiaki Moment]/replay.osr'>Replay</a>
 <img src='maps/Uchiage Hanabi, doko kara raru nen w [Firework NekoChiaki Moment]/screenshot.jpg'></img>
+
+
+## Happy! Lucky! Dochy! [Lovely] <a href='maps/Happy! Lucky! Dochy! [Lovely]/replay.osr'>Replay</a>
+<img src='maps/Happy! Lucky! Dochy! [Lovely]/screenshot.jpg'></img>
 
 
 ## Samama Festival [Neko Summer!] <a href='maps/Samama Festival [Neko Summer!]/replay.osr'>Replay</a>
