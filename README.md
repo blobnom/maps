@@ -4,7 +4,7 @@
 I thought I'd revive this since it was a lot of fun.
 
 
-Current Progress: 32 / 134 (23.88%)
+Current Progress: 33 / 134 (24.63%)
 
 ## Invisible Frenzy [Frenzy Insanely Forever 593] <a href='maps/Invisible Frenzy [Frenzy Insanely Forever 593]/replay.osr'>Replay</a>
 <img src='maps/Invisible Frenzy [Frenzy Insanely Forever 593]/screenshot.jpg'></img>
@@ -81,6 +81,10 @@ Current Progress: 32 / 134 (23.88%)
 
 ## Critical Hit [Lovely] <a href='maps/Critical Hit [Lovely]/replay.osr'>Replay</a>
 <img src='maps/Critical Hit [Lovely]/screenshot.jpg'></img>
+
+
+## N'na Wake Naikedo [Deadly] <a href='maps/N'na Wake Naikedo [Deadly]/replay.osr'>Replay</a>
+<img src='maps/N'na Wake Naikedo [Deadly]/screenshot.jpg'></img>
 
 
 ## Cute Beasts Do Cute Dances [Neko is Adorable!] <a href='maps/Cute Beasts Do Cute Dances [Neko is Adorable!]/replay.osr'>Replay</a>
