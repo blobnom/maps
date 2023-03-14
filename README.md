@@ -4,7 +4,7 @@
 I thought I'd revive this since it was a lot of fun.
 
 
-Current Progress: 33 / 137 (24.09%)
+Current Progress: 33 / 138 (23.91%)
 
 ## Cute Beasts Do Cute Dances [Neko is Lovely!] <a href='maps/Cute Beasts Do Cute Dances [Neko is Lovely!]/replay.osr'>Replay</a>
 <img src='maps/Cute Beasts Do Cute Dances [Neko is Lovely!]/screenshot.jpg'></img>
