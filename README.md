@@ -4,7 +4,7 @@
 I thought I'd revive this since it was a lot of fun.
 
 
-Current Progress: 33 / 145 (22.76%)
+Current Progress: 33 / 147 (22.45%)
 
 ## Ao to Natsu [sUmMeR!] <a href='maps/Ao to Natsu [sUmMeR!]/replay.osr'>Replay</a>
 <img src='maps/Ao to Natsu [sUmMeR!]/screenshot.jpg'></img>
